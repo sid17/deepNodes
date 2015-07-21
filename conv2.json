@@ -1,0 +1,20 @@
+{
+	"layers":
+	{
+		"L1":
+			{
+				"height":3,
+				"depth":3,
+				"filter":3,
+				"stride":1,
+				"numFilters":2,
+				"outputDim":1
+			},
+		"L2":
+			{
+				"height":1,
+				"depth":2
+			}
+
+	}
+}

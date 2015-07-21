@@ -1,0 +1,20 @@
+{
+	"layers":
+	{
+		"L1":
+			{
+				"height":7,
+				"depth":3,
+				"filter":3,
+				"stride":2,
+				"numFilters":2,
+				"outputDim":3,
+				"type":"conv"
+			},
+		"L2":
+			{
+				"height":3,
+				"depth":2
+			}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"layers":
+	{
+		"L1":
+			{
+				"height":4,
+				"depth":2,
+				"type":"pool",
+				"poolsize":2,
+				"pooltype":"max"
+			},
+			"L2":
+			{
+				"height":2,
+				"depth":2
+			}
+
+
+	}
+}
